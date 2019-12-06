@@ -1,6 +1,50 @@
 #main {
-    background-color: grey;
-    
+
+    background-color: #d3d3d3;
+    display: inline-block;
+    text-align: center;
 
 }
 
+#title {
+
+    border-color: indigo;
+}
+
+#tribute-info {
+
+    text-align: left;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+
+#timeline {
+    
+    text-align: center;
+
+}
+
+#img-div {
+
+    background-color: white;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 0;
+
+}
+
+#below-image {
+
+    margin: 0;
+    padding-top: 0;
+    background-color: white;
+       
+}
+
+#quote {
+
+    text-align: left;
+    margin-left: 260px;
+    margin-right: 260px;
+}
